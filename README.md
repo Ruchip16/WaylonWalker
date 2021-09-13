@@ -51,18 +51,18 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ---
 
-### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
+### <img height="20" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
 
 
 <!--
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _258_
 
-<a href='https://twitter.com/natterstefan'>
+
+<a href='https://twitter.com/Ruchicodess'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1255562113629802498/nTk-e7L5_normal.jpg' />
 </a>
 
-<a href='https://twitter.com/natterstefan'>
-    Stefan Natter 🇦🇹👋🏻
+<a href='https://twitter.com/Ruchicodess'>
+    Ruchi Pakhle 🇦🇹👋🏻
 </a>
 
 I am interested in and talking about JavaScript, ReactJS, CSS, and Software Engineering ♥️ | 📧 https://t.co/Jpwh9TFgNx (🐈🐈 🤵👰🏻 🇦🇹)
@@ -111,12 +111,12 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
 <h2></h2>
 -->
 <p align='center'>
-<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
+<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ruchip16.visitor-badge"> -->
  <p/>
 <div align="center">
 	<br>
 	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
-		<img src="follower.svg" width="800" height="140">
+		<img src="follower.svg" width="900" height="200">
 	</a>
 </div>
 
