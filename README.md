@@ -116,7 +116,7 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
 <div align="center">
 	<br>
 	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
-		<img src="follower.svg" width="900" height="200">
+		<img src="follower.svg" width="350" height="200">
 	</a>
 </div>
 
